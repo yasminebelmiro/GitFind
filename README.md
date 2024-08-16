@@ -1,4 +1,4 @@
-# 🔍 GitHub User Finder
+# 🔍 GitFind
 
 Este projeto foi desenvolvido como parte do curso de formação de **React Developer** pela Digital Innovation One (DIO). A aplicação permite buscar perfis de usuários no GitHub e exibir suas informações principais, como avatar, nome, bio e repositórios públicos.
 
