@@ -1,0 +1,10 @@
+.itemList strong{
+    color: #C8ACD6;
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+.itemList p{
+    font-size: 16px;
+    margin: 20px 0px;
+}

@@ -4,17 +4,19 @@
 }
 
 body {
-  background-color: #1d2128;
+  background-color: #17153b;
+  color: #fff;
 }
 
 hr {
-  background-color: rgba(229, 229, 229, 0.2);
-  border: 1px solid rgba(229, 229, 229, 0.2);
+  background-color: #C8ACD6;
+  border: 1px solid #C8ACD6;
+  margin: 30px 0px;
 }
 
 .crimson-text-regular {
-    font-family: "Crimson Text", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
